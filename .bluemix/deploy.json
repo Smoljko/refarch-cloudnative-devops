@@ -159,7 +159,7 @@
                 {
             "type": "text",
             "readonly": false,
-            "title": "Deployment-suffix (to make hostenames unique)" .
+            "title": "Deployment-suffix (to make hostenames unique)",
             "key": "deploy-suffix"
         }
         {
