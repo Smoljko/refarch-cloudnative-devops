@@ -138,7 +138,7 @@
         "repo-branch",
         "deploy-org",
         "deploy-space",
-        "deploy-suffix", 
+        "deploy-volkerDevOps", 
         "ibmid-user",
         "ibmid-pass",
         "shared-secret",
@@ -159,7 +159,7 @@
                 {
             "type": "text",
             "readonly": false,
-            "title": "Deployment-suffix (to make hostenames unique)",
+            "title": "Deployment-volkerDevOps (to make hostenames unique)",
             "key": "deploy-suffix"
         },
         {
